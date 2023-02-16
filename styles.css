@@ -13,6 +13,13 @@
 	font-family: Courier,sans-serif;
 	color: #363431;
 }
+.vuelta{
+	font-size: 40px;
+	font-family: Courier,sans-serif;
+	color: #363431;
+	margin: 60px 0;
+	text-align:center
+}
 .boton{
 	outline: none;
 	border: 1px solid #363431;
